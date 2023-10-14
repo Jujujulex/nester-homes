@@ -1,9 +1,12 @@
 // import "./App.css";
-import "./sass/main.scss";
+// import "./sass/main.scss";
 
 import Sidebar from "./sidebar";
 import Header from "./header";
 import Realtor from "./realtors";
+import Feature from "./features";
+import Story from "./story";
+import Home from "./home";
 
 function App() {
   return (
@@ -13,6 +16,12 @@ function App() {
       <Header />
 
       <Realtor />
+
+      <Feature />
+
+      <Story />
+
+      <Home />
     </div>
   );
 }

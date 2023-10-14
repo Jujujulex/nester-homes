@@ -21,7 +21,7 @@ function Realtor() {
 
         <img src={Realtor3} alt="realtor 3" className="realtors__img" />
         <div className="realtors__details">
-          <h4 className="heading-4 heading-4--light">Tony Ramsey</h4>
+          <h4 className="heading-4 heading-4--light">Toby Ramsey</h4>
           <p className="realtors__sold">198 houses sold</p>
         </div>
       </div>
