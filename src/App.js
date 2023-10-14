@@ -7,6 +7,8 @@ import Realtor from "./realtors";
 import Feature from "./features";
 import Story from "./story";
 import Home from "./home";
+import Gallery from "./gallery";
+import Footer from "./footer";
 
 function App() {
   return (
@@ -22,6 +24,10 @@ function App() {
       <Story />
 
       <Home />
+
+      <Gallery />
+
+      <Footer />
     </div>
   );
 }
